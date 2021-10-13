@@ -18,7 +18,6 @@ function App() {
           <Menu.Item icon={<FileTextFilled />} key="1"><a href="/blog" >Blog</a></Menu.Item>
           <Menu.Item icon={<LinkedinFilled />} key="2"><a href="https://www.linkedin.com/in/darraghmurphycs/" target="_blank" rel="noopener noreferrer">LinkedIn</a></Menu.Item>
           <Menu.Item icon={<GithubOutlined />} key="3"><a href="https://github.com/dazmurphy" target="_blank" rel="noopener noreferrer">Github</a></Menu.Item>
-          <Menu.Item icon={<FundFilled />} key="4"><a href="#" >Stocks</a></Menu.Item>
         </Menu>,
       ]}
     ></PageHeader>
